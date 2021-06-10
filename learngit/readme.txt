@@ -1,6 +1,5 @@
-git is great！
 <<<<<<< HEAD
-Creating a new branch is quick and simple.
+i ve changed！
 =======
-Creating a new branch is quick and simple.
->>>>>>> featurel
+i ve changed！
+>>>>>>> dev
